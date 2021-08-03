@@ -1,0 +1,1 @@
+![rapidrabbit76's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidrabbit76&show_icons=true&theme=tokyonight)
