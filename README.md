@@ -69,9 +69,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rapidrabbit76&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rapidrabbit76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
