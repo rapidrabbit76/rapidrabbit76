@@ -58,7 +58,9 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rapidrabbit76&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://tokscale.ai/u/rapidrabbit76"><img alt="Tokscale Stats for @rapidrabbit76" src="https://tokscale.ai/api/embed/rapidrabbit76/svg?view=3d&compact=1" /></a>
 </div>
+
 
 ---
 
